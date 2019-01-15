@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c449063-817b-475b-be51-3413644caad4" name="Default" comment="" />
+    <list default="true" id="6c449063-817b-475b-be51-3413644caad4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/awesomeProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unnamed.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filter/filter.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schema/argument.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schema/directive.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schema/field.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schema/object.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schema/of_type.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schema/parser.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schema/scheme.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/constructors.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/drivers/http.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/drivers/nats.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/introspectionStr.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stiching/json_merge.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stiching/log.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stiching/merge.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stiching/root.go" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -151,6 +177,9 @@
     </dirStrings>
   </component>
   <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -220,6 +249,7 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -305,7 +335,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3580858" />
       <window_info id="Structure" order="1" sideWeight="0.5025773" side_tool="true" weight="0.26626325" />
       <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5313531" />
